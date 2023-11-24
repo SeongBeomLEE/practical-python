@@ -1,3 +1,5 @@
+- 2023.11.24 [02_Containers](Notes/02_Working_with_data/02_Containers.md)
+
 # Welcome!
 
 When I first learned Python nearly 27 years ago, I was immediately
