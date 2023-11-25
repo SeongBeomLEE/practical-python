@@ -1,4 +1,9 @@
+# 꼭 읽어보면 좋은 내용
+- [07_Objects](Notes/02_Working_with_data/07_Objects.md)
+
+# 공부 기록
 - 2023.11.24 [02_Containers](Notes/02_Working_with_data/02_Containers.md)
+- 2023.11.25 [...]
 
 # Welcome!
 
