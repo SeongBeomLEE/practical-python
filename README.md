@@ -1,4 +1,4 @@
-# 꼭 읽어보면 좋은 내용
+# 또 읽으면 좋은 내용
 - [07_Objects](Notes/02_Working_with_data/07_Objects.md)
 
 # 공부 기록
