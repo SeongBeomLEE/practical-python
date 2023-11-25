@@ -15,7 +15,7 @@
 
 # 공부 기록
 - 2023.11.24 [02_Containers](Notes/02_Working_with_data/02_Containers.md)
-- 2023.11.25 [...]
+- 2023.11.25 [03_Program_organization/00_Overview](Notes/03_Program_organization/00_Overview.md)
 
 # Welcome!
 
