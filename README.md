@@ -14,8 +14,9 @@
   - 이래서 때때로 모든 objects를 "first-class" 라고 부르는 것임 ([First Class functions in Python](https://www.geeksforgeeks.org/first-class-functions-python/))
 
 # 공부 기록
-- 2023.11.24 [02_Containers](Notes/02_Working_with_data/02_Containers.md)
+- 2023.11.24 [02_Working_with_data/02_Containers](Notes/02_Working_with_data/02_Containers.md)
 - 2023.11.25 [03_Program_organization/00_Overview](Notes/03_Program_organization/00_Overview.md)
+- 2023.11.26 [03_Program_organization/05_Main_module](Notes/03_Program_organization/05_Main_module.md)
 
 # Welcome!
 
