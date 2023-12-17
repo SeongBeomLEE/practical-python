@@ -12,11 +12,18 @@
   - python에서 Numbers, strings, lists, functions, exceptions, classes, instances, 등등 모든 것이 objects임
   - 이는 이름을 부여할 수 있고, 데이터로 사용할 수 있고, container에 담을 수 있고, 이 밖에 제약 없이 다양하게 사용할 수 있다는 것을 의미함
   - 이래서 때때로 모든 objects를 "first-class" 라고 부르는 것임 ([First Class functions in Python](https://www.geeksforgeeks.org/first-class-functions-python/))
+- [06_Design_discussion](Notes/03_Program_organization/06_Design_discussion.md)
+  - Function Design의 주요 목표는 모듈화와 예측 가능성임
+  - python은 다른 프로그래밍 언어와 다르게, main function과 main method라는 개념이 없음
+  - 그 대신 파이썬은 source file 들 중에 제일 처음 시작하는 파일의 __main__ check을 통해서 main module 처럼 사용할 수 있음
+  - 함수의 예측 가능성을 높이기 위해서 Doc String, Type Annotation, arguments name 을 짧고 간결하게 작성해주는 것이 좋음
+  - 상황에 따라 다르겠지만, 함수의 유연성은 때때로 더 나은 서비스를 만드는데 도움을 줄 수 있기 때문에, 예측 가능성을 위해서 함수의 유연성을 제한하는 것은 좋은 습관이 아닐 수 있음 (read_data 함수를 작성할 때, file_name을 받을 것이냐, Iterable 객체를 받을 것이냐, Duck typing)
 
 # 공부 기록
 - 2023.11.24 [02_Working_with_data/02_Containers](Notes/02_Working_with_data/02_Containers.md)
 - 2023.11.25 [03_Program_organization/00_Overview](Notes/03_Program_organization/00_Overview.md)
 - 2023.11.26 [03_Program_organization/05_Main_module](Notes/03_Program_organization/05_Main_module.md)
+- 2023.12.17 [03_Program_organization/06_Design_discussion](Notes/03_Program_organization/06_Design_discussion.md)
 
 # Welcome!
 
